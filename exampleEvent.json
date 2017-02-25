@@ -1,0 +1,32 @@
+{
+  "session": {
+    "sessionId": "SessionId.625f9a8b-740a-4eb1-81a5-db4f234162e5",
+    "application": {
+      "applicationId": "amzn1.ask.skill.7b9ed983-663d-4686-bed3-efd207d64e46"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AGSLKIH2GUT3IBKL5YZI7ORUG3OQQZEAUNMJLICVB3KNYGKCXJSDVDGPXMPVROGLWSMDNIUANXOKQA3JQKIYZAXZYZ2QH6M7NQ6PXZCFPUBKGP7J53RHEASBCERSWUYULRFD6JNCA4BLFYH3WIQJSR6MEF3NU6R5VUOINT7FL5RK7LBXRLH6Z32TKNZJSWI4XQJTM6AHPY3Y2FA"
+    },
+    "new": false
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.9d23be19-dbc0-4439-bae8-40872fb9d6f7",
+    "locale": "en-GB",
+    "timestamp": "2017-01-01T19:49:54Z",
+    "intent": {
+      "name": "GetForecast",
+      "slots": {
+        "Date": {
+          "name": "Date"
+        },
+        "Location": {
+          "name": "Location",
+          "value": "tadley"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
